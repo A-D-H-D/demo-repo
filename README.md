@@ -1,3 +1,5 @@
 #Demo
 
-# some description
+# some description!
+
+currently learning GIT and GITHUB
